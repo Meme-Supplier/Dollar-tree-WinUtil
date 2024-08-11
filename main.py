@@ -20,7 +20,7 @@ def close():
 def main():
     clearscreen()
 
-    print("Dollar tree WinUtil V0.2.1")
+    print("Dollar tree WinUtil V0.3.1")
     print("OS:" , ostype , platform.release())
     print('\n')
     print('Choose a tool\n')
